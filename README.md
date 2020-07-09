@@ -7,4 +7,4 @@
 - 💚 I love kiss and hug (only with my loves)
 - 🍄 Please visit my [personal website](https://ttnghia.github.io/) for more details
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fttnghia" alt="Views">
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fttnghia)
