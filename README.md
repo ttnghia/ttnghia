@@ -6,3 +6,5 @@
 - 😄 I love food
 - 💚 I love kiss and hug (only with my loves)
 - 🍄 Please visit my [personal website](https://ttnghia.github.io/) for more details
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
