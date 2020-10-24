@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m a PhD candidate in Scientific Computing at University of Utah
-- 🔭 I’m currently doing research on physics-based simulation
+- 🌱 I’m a PhD in Computer Science at University of Utah
+- 🔭 I've been doing research on physics-based simulation
 - 👯 I love developing products that people like and love
 - 😄 I love food
 - 💚 I love kiss and hug (only with my loves)
