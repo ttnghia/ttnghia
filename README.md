@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a PhD in Computer Science at University of Utah
+- 🌱 I’m a PhD in Computer Science from University of Utah
 - 🔭 I've been doing research on physics-based simulation
 - 👯 I love developing products that people like and love
 - 😄 I love food
