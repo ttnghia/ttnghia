@@ -6,6 +6,6 @@ For more information, please visit my [personal website](https://ttnghia.github.
  * [Linkedin](https://www.linkedin.com/in/nghia-trong-truong/)
  * [Twitter](https://twitter.com/nghiatruong_vn)
 
-[![Nghia Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttnghia&count_private=true&show_icons=true?theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Nghia Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttnghia&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fttnghia)
