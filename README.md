@@ -7,6 +7,7 @@ For more information, please visit my [personal website](https://ttnghia.github.
  * [Twitter](https://twitter.com/nghiatruong_vn)
 
 [![Nghia Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttnghia&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttnghia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
